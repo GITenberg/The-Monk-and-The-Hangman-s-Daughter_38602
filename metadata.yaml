@@ -1,0 +1,40 @@
+_repo: The-Monk-and-The-Hangman-s-Daughter_38602
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: De Castro, Adolphe Danziger
+    alias: Castro, Adolphe Danziger de
+    birthdate: 1866
+    gutenberg_agent_id: '39568'
+    url: http://www.gutenberg.org/2009/agents/39568
+  - agent_name: Voss, Richard
+    birthdate: 1851
+    deathdate: 1918
+    gutenberg_agent_id: '42756'
+    url: http://www.gutenberg.org/2009/agents/42756
+  - agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ambrose_Bierce
+    - http://www.gutenberg.org/ebooks/author/44231
+description: An adaptation from the German of Richard Voss.
+gutenberg_issued: '2012-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Monks -- Fiction'
+title: The Monk and the Hangman's Daughter
+url: http://www.gutenberg.org/ebooks/38602
