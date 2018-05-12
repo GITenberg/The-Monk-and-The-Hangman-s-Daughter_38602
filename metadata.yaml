@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Ambrose_Bierce
     - http://www.gutenberg.org/ebooks/author/44231
 description: An adaptation from the German of Richard Voss.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38602#The-Monk-and-The-Hangman-s-Daughter
 gutenberg_issued: '2012-01-17'
 gutenberg_type: Text
 identifiers:
